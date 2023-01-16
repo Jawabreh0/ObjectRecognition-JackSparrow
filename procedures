@@ -1,5 +1,7 @@
 @uthor Ahmad Jawabreh
 
+*) Clone the official versio of YOLOv7 
+https://github.com/WongKinYiu/yolov7
 
 1-) Create Python Virtual Environment 
 python3 -m venv yourEnvironmentName (OS terminal)
