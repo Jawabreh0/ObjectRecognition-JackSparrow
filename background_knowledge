@@ -7,7 +7,7 @@ YOLO Algorithm
 -  Cars such as Teslas use the YOLO algorithm and CNNs
 - ----------------------------------------------------
 - Most of the computer vision projects needs a detection algorithms
--  YOLO is the best and fastest detection algorithm (1fps in real life detection)
+-  YOLO is the best and fastest detection algorithm (161fps in real time detection)
 - Check the stages detector screenshoot 
 - Classification: knowing what is the object
 - Localization: knowing where is the object 
